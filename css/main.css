@@ -1,0 +1,128 @@
+/*** sectioning elements ***/
+
+body {
+
+}
+
+header {
+
+}
+
+main {
+
+
+}
+
+footer {
+
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  color: #7a0606;
+  font-family:'Nixie One', cursive;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: #e68105;
+  text-align: center;
+  padding: 7px
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+font-family:'Nixie One', cursive;
+color: #e68105;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+.lightbox-gallery img  {
+border: 1px solid #999;
+padding: 2px;
+}
+
+
+/*** link styles ***/
+
+.lightbox-gallery a:link {
+text-decoration: none;
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
